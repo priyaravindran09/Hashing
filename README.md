@@ -1,3 +1,3 @@
 # Hashing
 
-A simple hashing datastructure implemented.
+A simple hashing data structure implemented.
